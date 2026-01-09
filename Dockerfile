@@ -18,6 +18,3 @@ EXPOSE 3000
 
 # App start
 CMD ["node", "index.js"]
-
-
-Add Kele aahe me Docker File
